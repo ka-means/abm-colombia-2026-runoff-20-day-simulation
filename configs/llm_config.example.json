@@ -1,0 +1,10 @@
+{
+  "provider": "Anthropic Claude",
+  "model_environment_variable": "CLAUDE_MODEL",
+  "model_default_recorded_in_supplied_run": "claude-sonnet-4-6",
+  "temperature": 0.35,
+  "max_output_tokens": 1200,
+  "api_key_environment_variable": "ANTHROPIC_API_KEY",
+  "store_api_key": false,
+  "note": "Changing the provider, model, prompt, schema, temperature, or token limit creates a new experimental condition."
+}

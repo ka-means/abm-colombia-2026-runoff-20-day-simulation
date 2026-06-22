@@ -1,0 +1,13 @@
+﻿mechanism,llm_final_state,driver_score,detractor_score,exposed_agents,events
+Traditional-media origin,Cepeda,0.6669690997024355,1.623155427718635,400,6697
+Traditional-media origin,De la Espriella,0.755204594978967,2.32705007474799,440,7383
+Traditional-media origin,Voto en blanco,0.24747593124085007,0.010106862940436376,45,708
+Social/media distribution,Cepeda,0.8496648058848321,2.1003788888370014,400,8451
+Social/media distribution,De la Espriella,0.9689067397560696,2.9603310756574093,440,9338
+Social/media distribution,Voto en blanco,0.31510359573612134,0.010106862940436376,45,907
+Digital amplifier context,Cepeda,0.671528532063074,0.9455802745094861,400,4059
+Digital amplifier context,De la Espriella,0.42144167283699885,2.401554373621457,440,4473
+Digital amplifier context,Voto en blanco,0.09798550365614911,0.0,45,453
+Personality/endorsement context,Cepeda,0.26933664920802536,1.0054000926348268,398,2028
+Personality/endorsement context,De la Espriella,0.48391358067075785,0.9129897265380178,440,2377
+Personality/endorsement context,Voto en blanco,0.0255334181113607,0.0,45,221

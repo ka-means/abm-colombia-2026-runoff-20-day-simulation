@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "colombia-2026-hybrid-abm"
+version = "1.0.0"
+description = "Research repository for a twenty-day synthetic Colombian runoff ABM–LLM simulation."
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [{name = "Katherin Molina"}]
+keywords = [
+  "agent-based modelling",
+  "multi-agent systems",
+  "computational social science",
+  "information dynamics",
+  "large language models",
+]
+classifiers = [
+  "Development Status :: 3 - Alpha",
+  "Intended Audience :: Science/Research",
+  "License :: OSI Approved :: MIT License",
+  "Programming Language :: Python :: 3",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+
+[tool.setuptools]
+py-modules = []

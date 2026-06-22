@@ -1,0 +1,39 @@
+{
+  "package_version": "v5.1",
+  "parent_version": "v5",
+  "cutoff_colombia_time": "2026-06-20T23:59:59-05:00",
+  "audit_date": "2026-06-21",
+  "master_rows": 207,
+  "source_categories": 9,
+  "coverage_rows": 57,
+  "blank_vote_coverage_rows": 11,
+  "public_position_audit_rows": 4,
+  "weight_formula": "N/(K*n_c)",
+  "model_weight_formula": "min(3, source_class_balance_weight/event_cluster_size)",
+  "source_category_counts": {
+    "alternativo_investigativo": 14,
+    "internacional": 14,
+    "medio_publico": 5,
+    "otro": 36,
+    "prensa_privada": 27,
+    "radio": 29,
+    "regional": 5,
+    "social_oficial": 38,
+    "television": 39
+  },
+  "source_category_weights": {
+    "alternativo_investigativo": 1.642857,
+    "internacional": 1.642857,
+    "medio_publico": 4.6,
+    "otro": 0.638889,
+    "prensa_privada": 0.851852,
+    "radio": 0.793103,
+    "regional": 4.6,
+    "social_oficial": 0.605263,
+    "television": 0.589744
+  },
+  "event_clusters": 201,
+  "canonical_signals": 201,
+  "supporting_observations": 6,
+  "cluster_integrity_rule": "exactly one canonical_signal per event_cluster_id"
+}

@@ -1,0 +1,5 @@
+﻿excluded_term,reason
+reporta,"Journalistic reporting verb repeated in canonical titles; it describes presentation format, not political meaning or emotion."
+vuelta,Procedural election term repeated in references to the second round; it identifies the scenario rather than a substantive frame.
+silla,Source-brand token derived from La Silla Vacía; it identifies a media outlet rather than a semantic concept.
+blanco,Part of the decision label 'voto en blanco'; it is not an emotional descriptor and is tautological for that group.

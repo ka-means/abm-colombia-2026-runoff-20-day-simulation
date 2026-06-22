@@ -1,0 +1,18 @@
+{
+  "seed": 42,
+  "n_agents": 1000,
+  "max_daily_direct_signals": 2,
+  "active_signal_window_days": 6,
+  "social_interaction_sample": 0.25,
+  "direct_effect_scale": 0.1,
+  "peer_effect_scale": 0.03,
+  "memory_decay": 0.88,
+  "adaptive_source_trust_enabled": true,
+  "motif_memory_enabled": true,
+  "cascade_max_depth": 3,
+  "cascade_fanout": 2,
+  "cascade_decay": 0.62,
+  "network_rewiring_enabled": false,
+  "enable_checkpoints": false,
+  "run_label": "hybrid_ingestion_emergence_1000_agents_v5"
+}

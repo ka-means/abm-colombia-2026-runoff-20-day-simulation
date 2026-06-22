@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, model specification, or curated research dataset, please cite this release."
+title: "Colombia 2026 Hybrid ABM–LLM Runoff Simulation"
+type: software
+authors:
+  - family-names: "Molina"
+    given-names: "Katherin"
+version: "1.0.0"
+date-released: "2026-06-22"
+license: MIT
+abstract: >-
+  A twenty-day synthetic agent-based and LLM-assisted computational experiment
+  studying information ingestion, adaptive trust, semantic reframing, social
+  transmission, emergence, and simulated voting-state deliberation in a
+  Colombian presidential-runoff scenario.
+keywords:
+  - agent-based modelling
+  - multi-agent systems
+  - computational social science
+  - information dynamics
+  - large language models
+  - electoral simulation
+  - Colombia

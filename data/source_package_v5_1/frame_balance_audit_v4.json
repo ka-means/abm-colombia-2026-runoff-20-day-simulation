@@ -1,0 +1,21 @@
+{
+  "international_observations": 21,
+  "international_outlets": 10,
+  "international_frame_counts": {
+    "security_market_anti_petro": 5,
+    "economic_market": 2,
+    "social_rights_progressive": 5,
+    "institutional_descriptive": 6,
+    "conflict_memory_human_rights": 1,
+    "polarisation_comparative": 2
+  },
+  "amplifier_pieces": 22,
+  "amplifier_names": 17,
+  "amplifier_alignment_counts": {
+    "favourable_de_la_espriella_or_critical_cepeda": 7,
+    "mixed_interview_or_informational": 7,
+    "favourable_cepeda_or_critical_de_la_espriella": 8
+  },
+  "classification_rule": "Alignment and frame classifications apply to each individual piece, not permanently to the outlet, programme or person.",
+  "missing_metrics_rule": "Blank engagement values mean unavailable, not zero."
+}

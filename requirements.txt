@@ -1,0 +1,12 @@
+anthropic>=0.40
+ipython>=8.0
+jupyterlab>=4.0
+matplotlib>=3.8
+networkx>=3.2
+numpy>=1.26
+pandas>=2.1
+plotly>=5.20
+pydantic>=2.6
+pytest>=8.0
+wordcloud>=1.9
+openpyxl>=3.1

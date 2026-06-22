@@ -1,0 +1,24 @@
+﻿filename,rows,columns,sha256,status
+section_23_kpi_summary.csv,1,16,18629117f621e0c7ec5608ec8e48e8603f97d3ed56ea51ba3fe624639ed7a132,included
+model_shares.csv,5,6,7223bb9e930bc2a58b1672aeebb62f7c76b8f177ca6e430f3331e176178d3c9a,included
+regional_shares.csv,8,6,601da73e6b973c8688f74777fcddb5a4519758a2a5d489403343ee322507123a,included
+blank_origin.csv,5,3,a2dd3c43d50ee6ca7ba305cf5e76057a9b1b5aabb6ea1acdf09373ab9a6b3b6e,included
+channel_profile.csv,6,5,6f79b89939884a84cd0acddf4175f1a48fb6d97b64ca39d2fe3e65432ce65931,included
+emotional_valence.csv,5,5,ea54aeb3e2e1337a7180e2d05b2df35a186b00926bf09acf1d13d30e119d541f,included
+media_ecosystem.csv,12,6,f8108cad8aa62564194212290fbe91f474bc5f3021951ab7f90611f0c58f10bd,included
+semantic_concept_profile.csv,898,11,4f1a8187611904395c575a48f8a5b23c1578968e8c98171b21a30eab1383aa5f,included
+semantic_exclusion_audit.csv,4,2,321da6cea595d7a81956aa47727b9e16b941f349a00ae75d47c57c570738543f,included
+tone_bands.csv,5,6,0de9425d6767d65fffbb7e0c12784242991f4a55d86b143f92b0103d55aec450,included
+tone_profile.csv,1000,12,fa2e7681b96b191297defad280d41c27cdfe409fcccec201491f7b5fb19258c0,included
+top_arguments.csv,25,6,acf0468f066522b7a3f4ed439b23afd847b908c6fdacb54bbff703a8c7b85112,included
+agent_examples.csv,10,74,3112476bbd2c6cbb9c498f11a2798be9618ff10167e1f6cb3b27f07b3b8f448a,included
+agent_opinions_abm_vs_llm_all.csv,1000,24,dcd5b08c82d8ebf7eb03afd5974d078c06bf9323e7a5e8889f28d1793dd450ba,included
+transition_counts.csv,,,,not supplied; regenerate from Section 23 of the executed notebook
+blank_evidence.csv,,,,not supplied; regenerate from Section 23 of the executed notebook
+vote_drivers.csv,,,,not supplied; regenerate from Section 23 of the executed notebook
+source_push.csv,,,,not supplied; regenerate from Section 23 of the executed notebook
+message_resonance.csv,,,,not supplied; regenerate from Section 23 of the executed notebook
+argument_themes.csv,,,,not supplied; regenerate from Section 23 of the executed notebook
+agent_exchanges.csv,,,,not supplied; regenerate from Section 23 of the executed notebook
+agent_opinions_abm_vs_llm_sample.csv,,,,not supplied; regenerate from Section 23 of the executed notebook
+dominant_emotion_matrix.csv,,,,not supplied; regenerate from Section 23 of the executed notebook

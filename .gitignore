@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets
+.env
+.env.*
+!.env.example
+*.key
+
+# Runtime and provider artifacts
+colombia_2026_hybrid_run_*/
+FINAL_HYBRID_CHECKPOINT/
+Claude_Agent_Simulation_History_*/
+claude_batch_results.jsonl
+claude_batch_submission.json
+claude_batch_requests.jsonl
+llm_batch_input.jsonl
+llm_batch_submission.json
+
+# Generated large artifacts
+release-assets*/
+*.tar.gz
+
+# Local operating-system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.tmp
+*.log

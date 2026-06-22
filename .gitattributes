@@ -1,0 +1,8 @@
+* text=auto eol=lf
+*.ipynb linguist-language=Jupyter Notebook
+*.csv text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.html text eol=lf
+*.zip binary
+*.xlsx binary
